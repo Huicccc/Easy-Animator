@@ -2,10 +2,10 @@
 
 An application that facilitates the creation of simple but effective 2D animations from shapes, decoupling the description of an algorithm or phenomenon from its visual representation on the screen. This separation will enable the creation of an application that will render an animation according to its textual description, independent of how the description was generated. 
 
-The command-line arguments are illustrated below:
--in "name-of-animation-file"
--out "where-output-show-go"
-—view “text”, “svg”, “visual”, or "playback"
+The command-line arguments are illustrated below:<br />
+-in "name-of-animation-file"<br />
+-out "where-output-show-go"<br />
+—view “text”, “svg”, “visual”, or "playback"<br />
 -speed "integer-ticks-per-second"
 
 Here are some examples of valid command-line arguments and what they mean:
