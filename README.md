@@ -2,12 +2,12 @@
 
 A Java application that facilitates the creation of simple but effective 2D animations from shapes, decoupling the description of an algorithm or phenomenon from its visual representation on the screen. This separation will enable the creation of an application that will render an animation according to its textual description, independent of how the description was generated. 
 
+
+![toh-5](https://user-images.githubusercontent.com/105135459/206825537-1fa01703-11d5-48a1-aa49-2c4fb9e7a773.gif)
+
 ![big-bang-big-crunch](https://user-images.githubusercontent.com/105135459/206825445-ccdb201e-9757-4c20-b46d-60275abc56a2.gif)
 
 ![night](https://user-images.githubusercontent.com/105135459/206825501-4175ba71-096c-4c02-9903-d0c586b3c5c7.gif)
-
-
-![toh-5](https://user-images.githubusercontent.com/105135459/206825537-1fa01703-11d5-48a1-aa49-2c4fb9e7a773.gif)
 
 ## User Manual
 - The command-line arguments are illustrated below: </br>
